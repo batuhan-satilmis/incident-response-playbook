@@ -1,5 +1,8 @@
 # incident-response-playbook
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![NIST SP 800-61](https://img.shields.io/badge/aligned-NIST%20SP%20800--61-brightgreen.svg)](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
+
 > NIST SP 800-61–aligned runbooks for the incident types that hit small and mid-sized organizations most often. Built for actual use during an incident, not for a binder on a shelf.
 
 Each runbook is structured the same way:
