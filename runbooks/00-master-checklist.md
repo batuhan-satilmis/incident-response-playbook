@@ -24,6 +24,7 @@ Based on the suspected category, open the matching runbook:
 | File encryption / ransom note / EDR ransomware alert | [02-ransomware-endpoint.md](./02-ransomware-endpoint.md) |
 | Mailbox rules created without user, unusual sent items, finance impersonation | [03-business-email-compromise.md](./03-business-email-compromise.md) |
 | Unusual data egress, large queries, unfamiliar exporters | [04-data-exfiltration.md](./04-data-exfiltration.md) |
+| Webshell / RCE / IDOR / SQLi / SSRF in your customer-facing app | [05-web-application-compromise.md](./05-web-application-compromise.md) |
 
 If two might apply, pick one and note it in the incident record. Don't waste time debating.
 

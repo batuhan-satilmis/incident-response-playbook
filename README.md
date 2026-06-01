@@ -27,6 +27,7 @@ The **First 15 minutes** is deliberately short. When something is on fire, the r
 | [02-ransomware-endpoint.md](./runbooks/02-ransomware-endpoint.md) | Ransomware detected on a workstation or server. |
 | [03-business-email-compromise.md](./runbooks/03-business-email-compromise.md) | A user's M365 / Google Workspace mailbox is suspected to be controlled by an attacker. |
 | [04-data-exfiltration.md](./runbooks/04-data-exfiltration.md) | Evidence of unauthorized data egress. |
+| [05-web-application-compromise.md](./runbooks/05-web-application-compromise.md) | RCE / webshell / IDOR / SSRF / SQLi in your customer-facing application. |
 
 ## Templates
 
